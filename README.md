@@ -1,7 +1,7 @@
 # Hey 👋
 I'm a 16 year old self taught fullstack software & blockchain developer from Canada.
 
-## Languages/frameworks:
+## Languages/frameworks/libraries:
 - JavaScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 - React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
