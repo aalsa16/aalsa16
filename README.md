@@ -18,5 +18,3 @@ I'm a 17 year old self taught fullstack software & blockchain developer from Can
 
 ## What I'm currently learning:
 - Rust
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aalsa16" />
