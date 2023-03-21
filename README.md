@@ -1,5 +1,6 @@
 # Hey 👋
 I'm a 17 year old self taught fullstack software & blockchain developer from Canada.
+
 Building @ [breeze](https://twitter.com/BreezeAIO)
 
 ## Languages/frameworks/libraries:
