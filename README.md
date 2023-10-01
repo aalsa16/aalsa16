@@ -1,5 +1,5 @@
 # Hey 👋
-I'm a 17 year old self taught fullstack software & blockchain developer from Canada.
+I'm an 18 year old self taught fullstack software & blockchain developer from Canada.
 
 ## Languages/frameworks/libraries:
 - JavaScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
